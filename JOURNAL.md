@@ -5,7 +5,9 @@ description: "A robot that uses camera vision and a mechanical arm to play chess
 created_at: "2025-6-15"
 ---
 
-##June 15th
+# LinuxDino's beloved diary
+
+## June 15th
 
 Today, I have planned on what I am going to do for the next month or so. I created a design for this prototype model by hand, and I think it looks pretty cool.
 
