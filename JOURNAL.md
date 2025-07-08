@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/20bc5703-2acf-4f14-aff5-cfd954b6437b)---
+---
 title: "ChessMate"
 author: "LinuxDino"
 description: "A robot that uses camera vision and a mechanical arm to play chess with you!"
